@@ -6,3 +6,5 @@ if the plugin isnt their something has gone wrong best thing to do is check the 
 make sure your server is running spiggot (mine is currently running 1.16.3) but i belive either version 12 or 13 up will work with this plugin.
 
 the main issue you might face is either with the extract version or the plugin.yml document.
+
+in the future i might add a config file to be able to change the enchantment levels and the item names/colors.
