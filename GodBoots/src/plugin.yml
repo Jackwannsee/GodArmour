@@ -1,0 +1,11 @@
+name: GodBoots
+author: FatJack
+main: me.FatJack.GodBoots.Main
+version: 1.0
+ 
+commands:
+  GodBoots:
+  GodHelmet:
+  GodLeggings:
+  GodChestplate:    
+   
